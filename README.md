@@ -1,35 +1,29 @@
-# Tableau_Project--Adventure-Works-Sales
-Prepared a Comprehensive Sales Performance Analysis Dashboard for Adventure Works showing overall performance, yearly and monthly trends and profitability insights.
-Sales & Production Performance Dashboard (Tableau)
-
-An interactive Tableau dashboard analyzing total sales, profit, production cost, and customer trends across multiple years.
-
-🔍 Key Highlights:
-
-📊 29.36M Total Sales
-
-💰 12.08M Total Profit
-
-📈 41.15% Profit Margin
-
-👥 18K Total Customers
-
-📦 Product-level and quarterly performance insights
-
-📌 Features:
-
-Year-wise sales comparison (2010–2014)
-Quarterly sales distribution
-Monthly trend analysis
-Product performance breakdown (bubble chart)
-Customer-level contribution (treemap)
-
-🛠 Tools Used:
+📊 Adventure Works Sales Dashboard – Tableau Project
+🔍 Project Overview
+This project presents an interactive Sales Performance Dashboard built using Tableau on the Adventure Works dataset. The dashboard provides detailed insights into sales, profit, production cost, and customer performance to support data-driven business decisions.
+📈 Key KPIs
+Total Sales: 29.36M
+Total Profit: 12.08M
+Production Cost: 17.28M
+Profit Margin: 41.15%
+Total Customers: 18K
+📊 Dashboard Features
+✅ Year-wise Sales Analysis
+✅ Quarter-wise Sales Distribution
+✅ Month-wise Sales Trend
+✅ Sales vs Production Cost Comparison
+✅ Top 10 Customers by Sales
+✅ Interactive Filters (Year & Quarter)
+🛠 Tools & Technologies
 Tableau
-DAX (for calculated KPIs & measures)
-Data Modeling
-Data Visualization Best Practices
+Data Visualization Techniques
+KPI Design
+Business Performance Analysis
+🎯 Objective
+The objective of this project is to analyze sales performance, identify trends, and evaluate profitability across different time periods and customer segments.
+📌 Learning Outcomes
+Designing interactive dashboards
+Creating calculated fields & KPIs
+Applying visual storytelling techniques
+Converting raw data into actionable insights
 
-Power BI
-
-DAX (for calculated KPIs & measures)
